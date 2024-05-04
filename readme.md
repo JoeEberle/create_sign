@@ -36,4 +36,4 @@ To get started with the **Create Sign** solution repository, follow these steps:
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](create_sign.png)  <br>![additional_image](sign_NEON.png)  <br>![additional_image](Veritcal_Automated_sign.png)  <br>
+    ## Deliverables or Figures![additional_image](create_sign.png)  <br>![additional_image](sign_NEON.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](Veritcal_Automated_sign.png)  <br>
