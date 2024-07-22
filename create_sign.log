@@ -1,0 +1,9 @@
+2024-07-21 21:21:11,224 - INFO - START create_sign =============================================
+2024-07-21 21:21:11,224 - INFO - START create_sign Start Time = 2024-07-21 21:21:11
+2024-07-21 21:21:11,225 - INFO - create_sign Step 0 - Initialize the configuration file parser
+2024-07-21 21:21:11,226 - INFO - Process create_sign Step 0 - Initializing and starting Logging Process.
+2024-07-21 21:21:11,681 - INFO - PERFORMANCE create_sign The total process duration was:0.46
+2024-07-21 21:21:11,681 - INFO - PERFORMANCE create_sign Stop Time = 2024-07-21 21:21:11
+2024-07-21 21:21:11,681 - INFO - PERFORMANCE create_sign Short process duration less than 3 Seconds:0.46
+2024-07-21 21:21:11,682 - INFO - PERFORMANCE create_sign Performance optimization is not reccomended
+2024-07-21 21:21:11,682 - INFO - END create_sign =============================================
