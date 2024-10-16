@@ -37,11 +37,8 @@ To get started with the **Create Sign** solution repository, follow these steps:
  ![additional_image](create_sign.png)  <br>![additional_image](sign_NEON.png)  <br>![additional_image](Veritcal_Automated_sign.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
