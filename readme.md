@@ -2,6 +2,9 @@
 The **Create Sign** utility creates signage with precision and efficiency. These systems can generate signs of any font size or color, allowing for versatility in design. By leveraging automated processes, businesses can produce signage quickly and accurately, saving time and resources. Additionally, the signs are typically saved as .PNG files, ensuring compatibility across various platforms and ease of distribution. This approach streamlines the sign-making process, resulting in high-quality output while minimizing manual labor and errors.
 ![Image image_filename](sample.png)
 ## Getting Started
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 To get started with the **Create Sign** solution repository, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
@@ -16,7 +19,7 @@ To get started with the **Create Sign** solution repository, follow these steps:
 
 ## Notebook Features
 
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+These Features are design to provide everything you need for **Knowledge Transfer** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
