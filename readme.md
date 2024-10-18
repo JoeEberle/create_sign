@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Create Sign 
-    ## A tiny utility to create PNG signs.
+    
+# Create Sign 
+
+## A tiny utility to create PNG signs.
+
     ![Image image_filename](code.png)
 The **Create Sign** utility creates signage with precision and efficiency. These systems can generate signs of any font size or color, allowing for versatility in design. By leveraging automated processes, businesses can produce signage quickly and accurately, saving time and resources. Additionally, the signs are typically saved as .PNG files, ensuring compatibility across various platforms and ease of distribution. This approach streamlines the sign-making process, resulting in high-quality output while minimizing manual labor and errors.
 ![Image image_filename](code.png)![Image image_filename](sample.png)
@@ -23,9 +26,9 @@ To get started with the **Create Sign** solution repository, follow these steps:
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Create Sign** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -35,6 +38,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](create_sign.png)  <br>![additional_image](sign_NEON.png)  <br>![additional_image](Veritcal_Automated_sign.png)  <br>
