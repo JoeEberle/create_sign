@@ -1,9 +1,9 @@
-2024-10-04 00:54:33,574 - INFO - START create_sign =============================================
-2024-10-04 00:54:33,574 - INFO - START create_sign Start Time = 2024-10-04 00:54:33
-2024-10-04 00:54:33,574 - INFO - create_sign Step 0 - Initialize the configuration file parser
-2024-10-04 00:54:33,574 - INFO - Process create_sign Step 0 - Initializing and starting Logging Process.
-2024-10-04 00:54:33,994 - INFO - PERFORMANCE create_sign The total process duration was:0.42
-2024-10-04 00:54:33,995 - INFO - PERFORMANCE create_sign Stop Time = 2024-10-04 00:54:33
-2024-10-04 00:54:33,995 - INFO - PERFORMANCE create_sign Short process duration less than 3 Seconds:0.42
-2024-10-04 00:54:33,995 - INFO - PERFORMANCE create_sign Performance optimization is not reccomended
-2024-10-04 00:54:33,995 - INFO - END create_sign =============================================
+2025-04-26 16:57:09,438 - INFO - START create_sign =============================================
+2025-04-26 16:57:09,438 - INFO - START create_sign Start Time = 2025-04-26 16:57:09
+2025-04-26 16:57:09,438 - INFO - create_sign Step 0 - Initialize the configuration file parser
+2025-04-26 16:57:09,438 - INFO - Process create_sign Step 0 - Initializing and starting Logging Process.
+2025-04-26 16:57:09,894 - INFO - PERFORMANCE create_sign The total process duration was:0.46
+2025-04-26 16:57:09,894 - INFO - PERFORMANCE create_sign Stop Time = 2025-04-26 16:57:09
+2025-04-26 16:57:09,894 - INFO - PERFORMANCE create_sign Short process duration less than 3 Seconds:0.46
+2025-04-26 16:57:09,894 - INFO - PERFORMANCE create_sign Performance optimization is not reccomended
+2025-04-26 16:57:09,894 - INFO - END create_sign =============================================
